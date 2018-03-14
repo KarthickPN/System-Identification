@@ -12,8 +12,8 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
   
   # The Software
   
-   Frequency based System Identification software CIFER was used. A functional layout of CIFER is shown below.
+   Frequency based System Identification software CIFER was used.
     
    CIFER® Student Version is available for download from the AIAA Supplemental Materials website, upon purchase of Aircraft and Rotorcraft System Identification: Engineering Methods with Flight-Test Examples, Second Edition by Dr. Mark B. Tischler and Mr. Robert K. Remple. The download password can be found on the last printed page of the texbook, after the index.
     
-   For more info, visit http://nams.usra.edu/flight-control/cifer/overview/
+   For more info about the software and the installation process, visit http://nams.usra.edu/flight-control/cifer/overview/
