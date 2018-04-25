@@ -10,6 +10,8 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
   
   The provided data were collected on the real vehicle; system identification maneuvers were performed on the runway at NASA Ames research center.
   
+  ![Alt text](stanford_p1.jpg)
+  
   # The Software
   
    Frequency based System Identification software CIFER was used.
