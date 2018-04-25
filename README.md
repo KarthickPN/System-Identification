@@ -25,6 +25,19 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
         </p>
     </th>
   </tr>
+  <tr>
+    <th>
+      <p align="center">
+           <a href="https://github.com/KarthickPN/System-Identification"><img src="statespace_vs_identified_freq_1.PNG" alt="Overview" width="100%" height="100%"></a>
+           <br><a href="https://github.com/KarthickPN/System-Identification" name="p1_code">Identified frequency model overlaid on state space model </a>
+        </p>
+    </th>
+    <th>
+      <p align="center">
+           <a href="https://github.com/KarthickPN/System-Identification"><img src="statespace_vs_identified_freq_2.PNG" alt="Overview" width="100%" height="100%"></a>
+           <br><a href="https://github.com/KarthickPN/System-Identification" name="p1_code">Identified frequency model overlaid on state space model </a>
+        </p>
+    </th>
  </table>
   # The Software
   
