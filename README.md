@@ -38,7 +38,9 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
            <br><a href="https://github.com/KarthickPN/System-Identification" name="p1_code">Identified frequency overlaid on state space model </a>
         </p>
     </th>
+  </tr>
  </table>
+ 
   # The Software
   
    Frequency based System Identification software CIFER was used.
