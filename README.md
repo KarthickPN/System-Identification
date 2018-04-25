@@ -10,11 +10,11 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
   
   The provided data were collected on the real vehicle; system identification maneuvers were performed on the runway at NASA Ames research center.  
   
-  <table style="width:100%">
+  <table style="width:50%">
   <tr>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/System-Identification"><img src="./stanford_p1.jpg" alt="Overview" width="50%" height="50%"></a>
+           <a href="https://github.com/KarthickPN/System-Identification"><img src="./stanford_p1.jpg" alt="Overview" width="100%" height="100%"></a>
            <br><a href="https://github.com/KarthickPN/System-Identification" name="p1_code">Stanford P1 Drive-by-wire vehicle </a>
         </p>
     </th>
