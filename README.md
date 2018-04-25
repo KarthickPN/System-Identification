@@ -14,13 +14,13 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
   <tr>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/System-Identification"><img src="./stanford_p1.jpg" alt="Overview" width="60%" height="60%"></a>
+           <a href="https://github.com/KarthickPN/System-Identification"><img src="./stanford_p1.jpg" alt="Overview" width="100%" height="100%"></a>
            <br><a href="https://github.com/KarthickPN/System-Identification" name="p1_code">Stanford P1 Drive-by-wire vehicle </a>
         </p>
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/System-Identification"><img src="./the_data.PNG" alt="Overview" width="60%" height="60%"></a>
+           <a href="https://github.com/KarthickPN/System-Identification"><img src="./the_data.PNG" alt="Overview" width="100%" height="100%"></a>
            <br><a href="https://github.com/KarthickPN/System-Identification" name="p1_code">Time history data </a>
         </p>
     </th>
