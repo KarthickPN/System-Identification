@@ -41,8 +41,8 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
   </tr>
  </table>
  
- - [Time Domain Verification](https://github.com/KarthickPN/System-Identification) 
 ![Alt text](time_domain_verification.PNG)
+<p align="center">[Time Domain Verification](https://github.com/KarthickPN/System-Identification)</p>
 
  
   # The Software
