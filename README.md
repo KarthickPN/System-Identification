@@ -10,7 +10,7 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
   
   The provided data were collected on the real vehicle; system identification maneuvers were performed on the runway at NASA Ames research center.  
   
-  <table style="width:50%">
+  <table style="width:10%">
   <tr>
     <th>
       <p align="center">
