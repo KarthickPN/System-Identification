@@ -8,22 +8,13 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
 
   Using the real test data of P1, 3 degrees of freedom lateral-directional model of the vehicle was identified, and was verified using time domain verification method.
   
-  The provided data were collected on the real vehicle; system identification maneuvers were performed on the runway at NASA Ames research center.
+  The provided data were collected on the real vehicle; system identification maneuvers were performed on the runway at NASA Ames research center.  
   
-  ![Alt text](stanford_p1.jpg)
-  ![Alt text](the_data.PNG)
-  ![Alt text](statespace_vs_identified_freq_1.PNG)
-  ![Alt text](statespace_vs_identified_freq_2.PNG)
-  ![Alt text](time_domain_verification.PNG)
-  
-  
-  
-  
-  <table style="width:100%">
+  <table style="width:50%">
   <tr>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/System-Identification"><img src="./stanford_p1.jpg" alt="Overview" width="100%" height="100%"></a>
+           <a href="https://github.com/KarthickPN/System-Identification"><img src="./stanford_p1.jpg" alt="Overview" width="50%" height="50%"></a>
            <br><a href="https://github.com/KarthickPN/System-Identification" name="p1_code">Stanford P1 Drive-by-wire vehicle </a>
         </p>
     </th>
