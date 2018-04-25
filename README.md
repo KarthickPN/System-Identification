@@ -10,8 +10,11 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
   
   The provided data were collected on the real vehicle; system identification maneuvers were performed on the runway at NASA Ames research center.
   
-  ![Alt text](stanford_p1.jpg?raw=true "Stanford P1")
+  ![Alt text](stanford_p1.jpg)
   ![Alt text](the_data.PNG)
+  ![Alt text](statespace_vs_identified_freq_1.PNG)
+  ![Alt text](statespace_vs_identified_freq_2.PNG)
+  !{Alt text](time_domain_verification.PNG)
   
   # The Software
   
