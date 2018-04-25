@@ -24,7 +24,7 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
     <th>
       <p align="center">
            <a href="https://github.com/KarthickPN/System-Identification"><img src="./stanford_p1.jpg" alt="Overview" width="100%" height="100%"></a>
-           <br><a href=" " name="p1_code">Unit_A: Motor and Motion Model </a>
+           <br><a href="https://github.com/KarthickPN/System-Identification" name="p1_code">Unit_A: Motor and Motion Model </a>
         </p>
     </th>
   # The Software
