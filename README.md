@@ -14,7 +14,7 @@ This is a project done for "Mech 296A Special Topics in Dynamics and Control: Sy
   ![Alt text](the_data.PNG)
   ![Alt text](statespace_vs_identified_freq_1.PNG)
   ![Alt text](statespace_vs_identified_freq_2.PNG)
-  !{Alt text](time_domain_verification.PNG)
+  ![Alt text](time_domain_verification.PNG)
   
   # The Software
   
